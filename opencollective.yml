@@ -1,4 +1,4 @@
-collective: personnummer
+collective: organisationsnummer
 tiers:
   - tiers: '*'
     labels: ['backer']
