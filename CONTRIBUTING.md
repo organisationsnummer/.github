@@ -8,7 +8,7 @@ Please, try to follow the supplied issue template (if one exist) when reporting 
 
 ## Security vulnerabilities
 
-If you find a security vulnerability in the module, please, start with sending an email to security@personnummer.dev and allow us to evaluate and try to patch the vulnerability before announcing it public.
+If you find a security vulnerability in the module, please, start with sending an email to security@organisationsnummer.dev and allow us to evaluate and try to patch the vulnerability before announcing it public.
 
 Any security vulnerabilities that we fix will be announced after a security patch have been made and a timespan have passed allowing users to update their installation.
 
