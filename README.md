@@ -1,3 +1,3 @@
 # .github
 
-Default templates based on [jitesoft/.github](https://github.com/jitesoft/.github)
+Default templates based on [personnummer/.github](https://github.com/personnummer/.github)
