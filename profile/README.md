@@ -9,4 +9,4 @@ Organisationsnummer is a small open-source project created to validate, format a
 * organization type
 * vat number
 
-All features might not be implemented in all languages. Full specification can be found [here](https://github.com/organisationsnummer/meta/blob/master/README.md#package-specification-v1).
+All features might not be implemented in all languages. Full specification can be found [here](https://github.com/organisationsnummer/meta/blob/main/README.md#package-specification-v1).
